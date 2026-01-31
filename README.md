@@ -31,24 +31,26 @@ twitter-sentiment-app/
 ├── vectorizer.sav       # The fitted TF-IDF Vectorizer
 ├── Twitter.ipynb        # (Optional) The Jupyter Notebook used for training
 └── README.md            # Project documentation
+```
 
-## 🚀 How to Run Locally
+
+## 🚀How to Run Locally
 
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/PrincePandit16/twitter-sentiment.git](https://github.com/PrincePandit16/twitter-sentiment.git)
 cd twitter-sentiment
-
+```
 ### 2. Install Dependencies
 Make sure you have Python installed. It is recommended to use a virtual environment.
 ```bash
 pip install -r requirements.txt
-
+```
 
 ### 3.Run the app
 ```bash
 streamlit run app.py
-
+```
 ## 🧠 Model Details
 
 ### Preprocessing Pipeline
