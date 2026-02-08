@@ -2,6 +2,8 @@
 
 A Machine Learning web application that predicts whether a given tweet is **Positive** or **Negative**. Built with Python, Scikit-Learn, and Streamlit.
 
+# 🚀 **Live Demo:** [Twitter Sentiment Predictor](https://twitter-sentiment-application.streamlit.app/)
+
 ## 📋 About The Project
 This project uses Natural Language Processing (NLP) to analyze the sentiment of text data. It was trained on the **Sentiment140** dataset, which contains 1.6 million tweets extracted using the Twitter API.
 
